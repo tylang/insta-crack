@@ -4,7 +4,7 @@
 # www.instagram.com/linux_choice
 
 trap 'store; exit 1;' 2
-
+#testing
 counter=0
 counter2=20
 counter3=40
